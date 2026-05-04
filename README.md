@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm Sritam Behera, and I'm passionate about crafti
 
 ## About Me
 
-- 🌱 I’m currently learning MERN stack so that I don't have to depend upon third party APIs.
-- 💼 Student at NIT Jamshedpur
+- 🌱 I’m a MERN developer.
+- 💼 Student at NIT Jamshedpur.
 - 🤔 looking for opportunities to collaborate on open source repository.
 - 💬 Ask me about javascript and react.
 
