@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Sritam Behera, and I'm passionate about crafti
 - 🌱 I’m a MERN developer.
 - 💼 Student at NIT Jamshedpur.
 - 🤔 looking for opportunities to collaborate on open source repository.
-- 💬 Ask me about javascript and react.
+- 💬 Ask me about MERN Development.
 
 ## Projects
 
@@ -22,7 +22,7 @@ Feel free to explore my repositories to see more!
 ## Skills
 
 - Languages: Javascript, Basic of typescript, java, C, C++.
-- Library and Framework: react, redux, react-router-dom, tailwindCSS, SASS.
+- Library and Framework: react.js, node.js, express.js, mongoose, tailwindCSS.
 - Tools & Technologies:  restAPIS, VS code, git, github.
 
 ## Connect with Me
